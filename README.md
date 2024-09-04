@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez-345/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez-345a04260/)
 
 ## Introduction
 
