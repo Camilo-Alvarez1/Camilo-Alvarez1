@@ -13,12 +13,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| (Upcoming) SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| (Upcoming) Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| (Upcoming) Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| (Upcoming) Incident Response Planning and Execution      | SOC Automation Lab|
-| (Upcoming) Case Management with TheHive                  | SOC Automation Lab|
-| (Upcoming) Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| (Working: 9/04/2024) Security Automation with Shuffle SOAR         | <a href="https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab">Lab</a>|
+| (Upcoming) SIEM Implementation and Log Analysis          | SOC Lab|
+| (Upcoming) Network Traffic Monitoring and Attack Detection | SOC Lab|
+| (Upcoming) Incident Response Planning and Execution      | SOC Lab|
+| (Upcoming) Case Management with TheHive                  | SOC Lab|
+| (Upcoming) Scripting and Automation for Threat Mitigation | SOC Lab|
+
+https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab
 
 ## Tools
 
@@ -39,3 +41,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
+
