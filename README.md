@@ -20,8 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | (Upcoming) Case Management with TheHive                  | SOC Lab|
 | (Upcoming) Scripting and Automation for Threat Mitigation | SOC Lab|
 
-https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab
-
 ## Tools
 
 
