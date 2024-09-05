@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| (Working: 9/04/2024) Security Automation with Shuffle SOAR         | <a href="https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-SOC Automation Lab">Lab</a>|
+| (Working: 9/04/2024) Security Automation with Shuffle SOAR         | <a href="https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab">Lab</a>|
 | (Upcoming) SIEM Implementation and Log Analysis          | SOC Lab|
 | (Upcoming) Network Traffic Monitoring and Attack Detection | SOC Lab|
 | (Upcoming) Incident Response Planning and Execution      | SOC Lab|
@@ -41,4 +41,4 @@ https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab
 
 
 ## Projects
-- <a href="https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-SOC Automation Lab">Lab</a>
+- <a href="https://github.com/Camilo-Alvarez1/SOC-Automation-Project-Home-Lab">Lab</a>
