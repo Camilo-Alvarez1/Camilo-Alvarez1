@@ -1,5 +1,5 @@
 # Hello, I'm Camilo Alvarez!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez-345a04260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez1/)
 
 ## Introduction
 
