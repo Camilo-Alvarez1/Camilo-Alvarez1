@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Systems Administrator with a background in the U.S. Navy, a B.S. in Cybersecurity, and hands‑on training through the Microsoft Software & Systems Academy. I enjoy building reliable server environments, automating tasks with PowerShell, and designing clean, well‑structured networks. Most of my projects focus on Windows Server, Active Directory, virtualization, and learning how real enterprise infrastructure fits together. I’m passionate about improving systems, solving problems methodically, and continuously leveling up my technical skills.
 
 ## Objective
 
