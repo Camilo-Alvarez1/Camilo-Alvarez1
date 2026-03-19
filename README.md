@@ -3,11 +3,16 @@
 # 👋 Hello, I'm Camilo Alvarez  
 ### Systems Administrator • PowerShell Automation • Windows Server
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez1/)
-
 </div>
 
 ---
+
+## 🤝 Connect With Me
+
+Connect with me to discuss job opportunities, share ideas, or stay in touch.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-alvarez1/)
+
 
 ## 🚀 Introduction
 
